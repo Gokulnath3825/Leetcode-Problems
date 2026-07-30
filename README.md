@@ -12,12 +12,13 @@ This repository contains my Java solutions to LeetCode problems.
 
 | # | Problem No. | Title | Difficulty | Language |
 |---|------------:|-------|------------|----------|
-| 1 | 17 | Letter Combinations of a Phone Number | Medium | Java |
-| 2 | 180 | Consecutive Numbers | Medium | SQL |
+| 1 | 3658 | GCD of Odd and Even Sums | Medium | Java |
+| 2 | 3867 | Sum of GCD of Formed Pairs | Medium | Java |
 | 3 | 3312 | Sorted GCD Pair Queries | Hard | Java |
 | 4 | 1979 | Find Greatest Common Divisor of Array | Easy | Java |
 | 5 | 1081 | Smallest Subsequence of Distinct Characters | Medium | Java |
 | 6 | 1260 | Shift 2D Grid | Easy | Java |
+| 7 | 3499 | Maximize Active Section with Trade I | Medium | Java |
 
 ---
 
