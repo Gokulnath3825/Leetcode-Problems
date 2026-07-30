@@ -15,6 +15,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 1 | 17 | Letter Combinations of a Phone Number | Medium |
 | 2 | 180 | Consecutive Numbers | Medium |
 | 3 | 3312 | Sorted GCD Pair Queries | Hard |
+| 4 | 1979 | Find Greatest Common Divisor of Array | Easy |
 
 ---
 
