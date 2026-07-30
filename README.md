@@ -17,6 +17,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 3 | 3312 | Sorted GCD Pair Queries | Hard |
 | 4 | 1979 | Find Greatest Common Divisor of Array | Easy |
 | 5 | 1081 | Smallest Subsequence of Distinct Characters | Medium |
+| 6 | 1260 | Shift 2D Grid | Easy|
 
 ---
 
