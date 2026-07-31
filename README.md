@@ -19,6 +19,8 @@ This repository contains my Java solutions to LeetCode problems.
 | 5 | 1081 | Smallest Subsequence of Distinct Characters | Medium | Java |
 | 6 | 1260 | Shift 2D Grid | Easy | Java |
 | 7 | 3499 | Maximize Active Section with Trade I | Medium | Java |
+| 8 | 1291 | Sequential Digits | Medium | Java
+| 8 | 1291 | Sequential Digits | Medium | Java
 
 ---
 
