@@ -21,6 +21,9 @@ This repository contains my Java solutions to LeetCode problems.
 | 7 | 3499 | Maximize Active Section with Trade I | Medium | Java |
 | 8 | 1291 | Sequential Digits | Medium | Java
 | 9 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | Java
+| 10 | 3501 | Maximize Active Section with Trade II | Hard | Java
+| 11 | 3513 | Number of Unique XOR Triplets I | Medium | Java
+| 12 | 3514 | Number of Unique XOR Triplets II | Medium | Java
 
 ---
 
