@@ -24,6 +24,14 @@ This repository contains my Java solutions to LeetCode problems.
 | 10 | 3501 | Maximize Active Section with Trade II | Hard | Java
 | 11 | 3513 | Number of Unique XOR Triplets I | Medium | Java
 | 12 | 3514 | Number of Unique XOR Triplets II | Medium | Java
+| 13 | 3536 | Maximum Product of Two Digits | Easy | Java |
+| 14 | 628 | Maximum Product of Three Numbers | Easy | Java |
+| 15 | 1464 | Maximum Product of Two Elements in an Array | Easy | Java |
+| 16 | 3517 | Smallest Palindromic Rearrangement I | Medium | Java |
+| 17 | 3518 | Smallest Palindromic Rearrangement II | Medium | Java |
+| 18 | 3014 | Minimum Number of Pushes to Type Word I | Easy | Java |
+| 19 | 3016 | Minimum Number of Pushes to Type Word II | Easy | Java |
+
 
 ---
 
