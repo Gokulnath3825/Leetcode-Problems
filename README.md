@@ -20,7 +20,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 6 | 1260 | Shift 2D Grid | Easy | Java |
 | 7 | 3499 | Maximize Active Section with Trade I | Medium | Java |
 | 8 | 1291 | Sequential Digits | Medium | Java
-| 8 | 1291 | Sequential Digits | Medium | Java
+| 9 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | Java
 
 ---
 
