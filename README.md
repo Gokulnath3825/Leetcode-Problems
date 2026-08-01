@@ -31,6 +31,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 17 | 3518 | Smallest Palindromic Rearrangement II | Medium | Java |
 | 18 | 3014 | Minimum Number of Pushes to Type Word I | Easy | Java |
 | 19 | 3016 | Minimum Number of Pushes to Type Word II | Easy | Java |
+| 20 | 486 | Predict the Winner | Medium | Java |
 
 
 ---
