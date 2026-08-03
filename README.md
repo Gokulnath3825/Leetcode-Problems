@@ -33,6 +33,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 19 | 3016 | Minimum Number of Pushes to Type Word II | Easy | Java |
 | 20 | 486 | Predict the Winner | Medium | Java |
 | 21 | 877 | Stone Game | Medium | Java |
+| 21 | 1406 | Stone Game III | Hard | Java |
 
 
 ---
