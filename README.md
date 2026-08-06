@@ -36,6 +36,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 22 | 1406 | Stone Game III | Hard | Java |
 | 23 | 3731 | Find Missing Elements | Easy | Java |
 | 24 | 3310 | Remove Methods From Project | Medium | Java |
+| 25 | 3310 | Remove Methods From Project | Easy | Java |
 
 
 
