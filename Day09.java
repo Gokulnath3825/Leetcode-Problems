@@ -13,8 +13,8 @@ class Solution {
         for (int x : nums) {
             long[][] next = new long[max + 1][max + 1];
 
-            for (int g1 = 0; g1 <= max; g1++) {
-                for (int g2 = 0; g2 <= max; g2++) {
+            for (int g1=0;g1<=max;g1++){
+                for (int g2=0;g2<=max; g2++) {
 
                     long ways = dp[g1][g2];
                     if (ways == 0) continue;
