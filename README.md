@@ -38,6 +38,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 24 | 3310 | Remove Methods From Project | Medium | Java |
 | 25 | 3345 | Smallest Divisible Digit Product I | Easy | Java |
 | 26 | 3348 | Smallest Divisible Digit Product II | Hard | Java |
+| 27 | 3302 | Find the Lexicographically Smallest Valid Sequence | Medium | Java |
 
 
 
