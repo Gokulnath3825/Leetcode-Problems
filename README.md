@@ -39,6 +39,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 25 | 3345 | Smallest Divisible Digit Product I | Easy | Java |
 | 26 | 3348 | Smallest Divisible Digit Product II | Hard | Java |
 | 27 | 3302 | Find the Lexicographically Smallest Valid Sequence | Medium | Java |
+| 28 | 1140 | Stone Game II | Medium | Java |
 
 
 
