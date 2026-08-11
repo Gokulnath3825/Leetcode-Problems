@@ -41,6 +41,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 27 | 3302 | Find the Lexicographically Smallest Valid Sequence | Medium | Java |
 | 28 | 1140 | Stone Game II | Medium | Java |
 | 29 | 1510 | Stone Game IV | Medium | Java |
+| 30 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | Java |
 
 
 
