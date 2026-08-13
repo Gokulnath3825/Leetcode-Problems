@@ -43,6 +43,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 29 | 1510 | Stone Game IV | Medium | Java |
 | 30 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | Java |
 | 31 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | Java |
+| 31 | 2213 | Longest Substring of One Repeating Character | Hard | Java |
 
 
 
