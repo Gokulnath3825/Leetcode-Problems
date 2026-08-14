@@ -44,6 +44,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 30 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | Java |
 | 31 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | Java |
 | 32 | 2213 | Longest Substring of One Repeating Character | Hard | Java |
+| 33 | 3090 | Maximum Length Substring With Two Occurrences | Easy | Java |
 
 
 
