@@ -9,12 +9,9 @@ class Solution {
         return ans;
     }
 }
-
 public class Day18{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
-        // Read the input word
         String word = sc.next();
 
         Solution obj = new Solution();
