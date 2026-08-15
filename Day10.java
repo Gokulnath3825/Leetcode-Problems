@@ -9,8 +9,6 @@ class Solution {
 
     public List<Integer> maxActiveSectionsAfterTrade(String s, int[][] queries) {
         int ones = (int) s.chars().filter(c -> c == '1').count();
-
-        // Maximal zero blocks
         List<Integer> zsL = new ArrayList<>();
         List<Integer> zeL = new ArrayList<>();
 
