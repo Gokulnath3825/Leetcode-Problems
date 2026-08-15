@@ -9,6 +9,7 @@ class Solution {
         return ans;
     }
 }
+
 public class Day18{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
