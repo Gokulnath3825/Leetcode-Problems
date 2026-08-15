@@ -7,14 +7,12 @@ public class Day04 {
         int min = nums[0];
         int max = nums[0];
 
-        for (int num : nums) {
+        for(int num : nums){
             min = Math.min(min, num);
             max = Math.max(max, num);
         }
-
         return gcd(min, max);
     }
-
     public static int gcd(int a, int b) {
 
         while (b != 0) {
