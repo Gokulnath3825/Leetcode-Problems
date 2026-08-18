@@ -48,6 +48,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 34 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Java |
 | 35 | 2029 | Stone Game IX | Medium | Java |
 | 36 | 1563 | Stone Game V | Medium | Java |
+| 37 | 3471 | Find the Largest Almost Missing Integer | Easy | Java |
 
 ---
 
