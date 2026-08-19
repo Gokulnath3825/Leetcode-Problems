@@ -1,14 +1,12 @@
 import java.util.*;
 
 public class Day32 {
-
     static int[] leftChar;
     static int[] rightChar;
     static int[] leftCount;
     static int[] rightCount;
     static int[] max;
     static int[] length;
-
     static void build(int node, int start, int end, char[] arr) {
 
         length[node] = end - start + 1;
