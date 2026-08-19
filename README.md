@@ -49,6 +49,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 35 | 2029 | Stone Game IX | Medium | Java |
 | 36 | 1563 | Stone Game V | Medium | Java |
 | 37 | 3471 | Find the Largest Almost Missing Integer | Easy | Java |
+| 38 | 1386 | Cinema Seat Allocation | Medium | Java |
 
 ---
 
