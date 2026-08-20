@@ -50,6 +50,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 36 | 1563 | Stone Game V | Medium | Java |
 | 37 | 3471 | Find the Largest Almost Missing Integer | Easy | Java |
 | 38 | 1386 | Cinema Seat Allocation | Medium | Java |
+| 39 | 3069 |  Distribute Elements Into Two Arrays I | Easy | Java |
 
 ---
 
