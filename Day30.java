@@ -2,21 +2,14 @@ import java.util.*;
 
 public class Day30 {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
-
         int n = sc.nextInt();
-
         int[] nums = new int[n];
-
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++){
             nums[i] = sc.nextInt();
         }
-
         int sum = nums[0];
-
-        // Find sequential prefix sum
-        for (int i = 1; i < n; i++) {
+        for (int i = 1; i < n; i++){
             if (nums[i] == nums[i - 1] + 1) {
                 sum += nums[i];
             } else {
