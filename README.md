@@ -54,6 +54,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 40 | 3116 |  Kth Smallest Amount With Single Denomination Combination | Hard | Java |
 | 41 | 3266 |  Check Divisibility by Digit Sum and Product | Easy | Java |
 | 42 | 1927 |  Sum Game | Medium | Java |
+| 43 | 1872 |  Stone Game VIII | Hard | Java |
 
 
 ---
