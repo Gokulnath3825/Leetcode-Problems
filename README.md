@@ -53,6 +53,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 39 | 3069 |  Distribute Elements Into Two Arrays I | Easy | Java |
 | 40 | 3116 |  Kth Smallest Amount With Single Denomination Combination | Hard | Java |
 | 41 | 3266 |  Check Divisibility by Digit Sum and Product | Easy | Java |
+| 42 | 1927 |  Sum Game | Medium | Java |
 
 
 ---
