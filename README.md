@@ -55,6 +55,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 41 | 3266 |  Check Divisibility by Digit Sum and Product | Easy | Java |
 | 42 | 1927 |  Sum Game | Medium | Java |
 | 43 | 1872 |  Stone Game VIII | Hard | Java |
+| 43 | 3718 |  Smallest Missing Multiple of K | Easy | Java |
 
 
 ---
