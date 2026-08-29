@@ -59,6 +59,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 45 | 2904 |  Shortest and Lexicographically Smallest Beautiful String | Medium | Java |
 | 46 | 3720 |  Lexicographically Smallest Permutation Greater Than Target | Medium | Java |
 | 47 | 3734 |  Lexicographically Smallest Palindromic Permutation Greater Than Target | Medium | Java |
+| 48 | 2948 |  Make Lexicographically Smallest Array by Swapping Elements | Medium | Java |
 
 
 ---
