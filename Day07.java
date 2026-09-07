@@ -1,20 +1,15 @@
 import java.util.*;
 
-public class Day07 {
+public class Day07{
 
-    public static int maxActiveSectionsAfterTrade(String s) {
-
+    public static int maxActiveSectionsAfterTrade(String s){
         int ones = 0;
         int previousZeroBlock = Integer.MIN_VALUE;
         int maxGain = 0;
-
         int i = 0;
-
-        while (i < s.length()) {
-
+        while(i < s.length()){
             int j = i;
-
-            while (j < s.length() && s.charAt(j) == s.charAt(i)) {
+            while(j < s.length() && s.charAt(j) == s.charAt(i)) {
                 j++;
             }
 
