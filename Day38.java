@@ -15,7 +15,7 @@ public class Day38 {
             }
         }
 
-        // Rows with no reserved seats can have 2 families
+   
         int ans = (n - map.size()) * 2;
 
         for (int mask : map.values()) {
@@ -24,9 +24,8 @@ public class Day38 {
             boolean left = (mask & (1 << 2)) == 0
                     && (mask & (1 << 3)) == 0
                     && (mask & (1 << 4)) == 0
-                    && (mask & (1 << 5)) == 0;
+                    && (mask & (1 << 5)) ==
 
-            // Seats 4,5,6,7
             boolean middle = (mask & (1 << 4)) == 0
                     && (mask & (1 << 5)) == 0
                     && (mask & (1 << 6)) == 0
