@@ -84,16 +84,9 @@ class Solution{
 public class Day17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
-        // Input string
         String s = sc.next();
-
-        // Input k
         int k = sc.nextInt();
-
-        Solution obj = new Solution();
-        System.out.println(obj.smallestPalindrome(s, k));
-
+        Solution obj = new Solution(); System.out.println(obj.smallestPalindrome(s, k));
         sc.close();
     }
 }
