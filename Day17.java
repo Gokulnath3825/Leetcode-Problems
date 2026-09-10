@@ -1,41 +1,36 @@
 import java.util.*;
-
-class Solution {
+class Solution{
     public String smallestPalindrome(String s, int k) {
         int[] freq = new int[26];
-        for (char c : s.toCharArray()) {
+        for (char c : s.toCharArray()){
             freq[c - 'a']++;
         }
-
         int[] half = new int[26];
         StringBuilder mid = new StringBuilder();
         int m = 0;
-
-        for (int i = 0; i < 26; ++i) {
-            if (freq[i] % 2 != 0) {
-                mid.append((char) (i + 'a'));
+        for(int i = 0; i < 26; ++i){
+            if(freq[i] % 2 != 0){
+                mid.append((char)(i + 'a'));
             }
             half[i] = freq[i] / 2;
             m += half[i];
         }
 
-        if (getWays(half, k) < k) {
+        if(getWays(half,k)<k){
             return "";
         }
 
         StringBuilder firstHalf = new StringBuilder();
 
-        for (int i = 0; i < m; ++i) {
-            for (int c = 0; c < 26; ++c) {
+        for(int i = 0; i < m; ++i){
+            for(int c = 0; c < 26; ++c){
                 if (half[c] > 0) {
                     half[c]--;
-
                     long ways = getWays(half, k);
-
-                    if (ways >= k) {
-                        firstHalf.append((char) ('a' + c));
+                    if(ways >= k){
+                 firstHalf.append((char) ('a' + c));
                         break;
-                    } else {
+                    }else{
                         k -= ways;
                         half[c]++;
                     }
