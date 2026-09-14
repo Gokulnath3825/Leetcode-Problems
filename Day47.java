@@ -5,52 +5,36 @@ public class Day47 {
     static String solve(String s, String target) {
 
         int n = s.length();
-
-        // Count characters
         int[] count = new int[26];
 
         for (char c : s.toCharArray()) {
             count[c - 'a']++;
         }
-
-        // Check palindrome possibility
         int odd = 0;
         char middle = 0;
-
         for (int i = 0; i < 26; i++) {
             if (count[i] % 2 == 1) {
                 odd++;
                 middle = (char) ('a' + i);
             }
         }
-
         if (odd > 1) {
             return "";
         }
-
-        // Characters for left half
         int[] half = new int[26];
 
         for (int i = 0; i < 26; i++) {
             half[i] = count[i] / 2;
         }
-
         int halfLen = n / 2;
-
         StringBuilder left = new StringBuilder();
-
         for (int pos = 0; pos < halfLen; pos++) {
-
             boolean found = false;
-
-            // Try smallest character
             for (int c = 0; c < 26; c++) {
 
                 if (half[c] == 0) {
                     continue;
                 }
-
-                // Choose character
                 half[c]--;
                 left.append((char) ('a' + c));
 
