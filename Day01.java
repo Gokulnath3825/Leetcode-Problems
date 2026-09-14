@@ -6,9 +6,7 @@ public class Day01 {
             b = a % b;
             a = temp;
         }
-        
         return a;
-        
     }
     
     public static void main(String[] args) {
