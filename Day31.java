@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Day31 {
     public static void main(String[] args) {
 
@@ -15,21 +14,17 @@ public class Day31 {
         int max = 0;
 
         for(int right = 0; right < n; right++){
-
             map.put(nums[right],
-                map.getOrDefault(nums[right], 0) + 1);
-
+            
+ map.getOrDefault(nums[right], 0) + 1);
             while(map.get(nums[right]) > k){
                 map.put(nums[left],
                     map.get(nums[left]) - 1);
                 left++;
             }
-
             int length = right - left + 1;
-
             max = Math.max(max, length);
         }
-
         System.out.println(max);
     }
 }
